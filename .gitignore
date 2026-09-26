@@ -1,6 +1,5 @@
 data/*
 !data/raw_eia_spot.csv
-INTERVIEW_NOTES.md
 .venv/
 .ipynb_checkpoints/
 __pycache__/
